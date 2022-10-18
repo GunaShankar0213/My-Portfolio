@@ -1,5 +1,5 @@
 # My-Portfolio
-a digital resume and proof of the skills.
+Digital resume and Proof of my Skills.
 
 # This is my Portfolio
 
