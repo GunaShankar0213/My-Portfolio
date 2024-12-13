@@ -12,4 +12,4 @@ I am a passionate student from VIT specializing in **Artificial Intelligence**, 
 
 Explore my projects and feel free to connect for collaborations or feedback!  
 
-📫 **Contact Me**: [gunashankars@gmai.com] | 🌐 [Portfolio]{https://myportfolio-882c0.web.app/}
+📫 **Contact Me**: [gunashankars@gmai.com] | 🌐 {Portfolio}[https://myportfolio-882c0.web.app/]
